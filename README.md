@@ -32,10 +32,10 @@ Self Learning Resources I would recommend
 
 As a developer, I believe that the key to creating great web applications is a willingness to take on challenging projects. My passion for tackling tough projects has led me to seek out the most demanding assignments, where I can put my problem-solving skills to the test. I enjoy collaborating with teams that push me to innovate and approach problems in new and creative ways.
 
-| Project | Description | Programming Languages Used   |
-| ----------- | -----------             |-----------|
-| Ecommerce Website | As part of my BCS, I built a website that sells products, with categories and backend data. |HTML,CSS,JavaScript, PHP                  |
-| PhoneCompare |Built a product comparison website that visualizes phone specifications to help users decide on the best option. Implemented a responsive layout using Bootstrap, a search bar with real-time data fetching using AJAX, and worked on the backend with PHP          |HTML,CSS,JavaScript, PHP         |
+| Project | Description | Programming Languages Used       |
+| ----------- | -----------             |-----------     |
+| Ecommerce Website | As part of my BCS, I built a website that sells products, with categories and backend data. |HTML,CSS,JavaScript, PHP                     |
+| PhoneCompare |Built a product comparison website that visualizes phone specifications to help users decide on the best option. Implemented a responsive layout using Bootstrap, a search bar with real-time data fetching using AJAX, and worked on the backend with PHP          |HTML,CSS,JavaScript, PHP              |
 | SafetyNet | Developing a social media web application to combat cyberbullying for a university project which includes a dashboard for parents to monitor their children's accounts and ensures a safe experience for young users through various methods                |HTML,CSS,JavaScript, PHP              |
 |  |           |                   |
 
