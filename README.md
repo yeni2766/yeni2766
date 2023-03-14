@@ -23,7 +23,7 @@ Currently, I have a passion for creating dynamic and responsive websites. My ded
 
 Self Learning Resources I would recommend
 
-- W3Schools 
+- W3Schools - https://www.w3schools.com/
 - SoloLearn
 
 ## Projects
