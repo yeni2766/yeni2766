@@ -40,4 +40,6 @@ As a developer, I believe that the key to creating great web applications is a w
 ## Contact Me
 Feel free to contact me at [yeni8200@gmail.com] or connect with me on <a href = 'https://www.linkedin.com/in/yeni-o/'>Linkedln</a> to discuss potential opportunities or to learn more about my work.
 
+<img src = 'https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png'/>
+
 
