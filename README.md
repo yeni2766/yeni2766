@@ -34,8 +34,10 @@ As a developer, I believe that the key to creating great web applications is a w
 
 | Project | Description | Programming Languages Used   |
 | ----------- | -----------             |-----------|
-| Header | Title                        |                     |
-| Paragraph | Text                      |                   |
+| Ecommerce Website | Title                        |                     |
+| PhoneCompare | Text                      |                   |
+| SafetyNet | Text                      |                   |
+|  | Text                      |                   |
 
 ## Contact Me
 Feel free to contact me at [yeni8200@gmail.com] or connect with me on <a href = 'https://www.linkedin.com/in/yeni-o/'>Linkedln</a> to discuss potential opportunities or to learn more about my work.
