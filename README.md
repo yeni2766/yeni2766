@@ -34,7 +34,7 @@ As a developer, I believe that the key to creating great web applications is a w
 
 | Project | Description | Programming Languages Used   |
 | ----------- | -----------             |-----------|
-| Ecommerce Website | Title                        |                     |
+| Ecommerce Website | 	As part of my BCS, I built a website that sells products, with categories and backend data. The main programming languages used was PHP, JavaScript, and CSS.|                     |
 | PhoneCompare | Text                      |                   |
 | SafetyNet | Text                      |                   |
 |  | Text                      |                   |
