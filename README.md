@@ -1,9 +1,9 @@
 ### Hi there, I'm Yeni 👋
 
-- Graduated from Xander Talent bootcamp (Feb 2023 Cohort)
-- I'm currently working as a Software Engineering consultant at Xander Talent
-- 2023 Goals: Being the best I can possibly be, getting a job in web development, and getting a car 
-- Fun Facts: I enjoy going to the gym! I love playing football and I love playing games
+- Graduated from Xander Talent bootcamp (Feb 2023 Cohort) :office:
+- I'm currently working as a Software Engineering consultant at Xander Talent :computer:
+- 2023 Goals: Being the best I can possibly be, getting a job in web development, and getting a car :exclamation:
+- Fun Facts: I enjoy going to the gym! I love playing football and I love playing games :laughing:
 
 
 ### About Me
