@@ -1,5 +1,5 @@
 
-### Hi there, I'm Yeni 👋
+# Hi there, I'm Yeni 👋
 
 - Graduated from Xander Talent bootcamp (Feb 2023 Cohort) :office:
 - I'm currently working as a Software Engineering consultant at Xander Talent :computer:
