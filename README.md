@@ -32,5 +32,5 @@ As a developer, I believe that the key to creating great web applications is a w
 
 | Project | Description | Programming Languages Used   |
 | ----------- | ----------- |-----------|
-| Header | Title |                     |
-| Paragraph | Text |                   |
+| Header | Title                        |                     |
+| Paragraph | Text                      |                   |
