@@ -34,10 +34,10 @@ As a developer, I believe that the key to creating great web applications is a w
 
 | Project | Description | Programming Languages Used   |
 | ----------- | -----------             |-----------|
-| Ecommerce Website | 	As part of my BCS, I built a website that sells products, with categories and backend data. The main programming languages used was PHP, JavaScript, and CSS.|                     |
-| PhoneCompare | Text                      |                   |
-| SafetyNet | Text                      |                   |
-|  | Text                      |                   |
+| Ecommerce Website | As part of my BCS, I built a website that sells products, with categories and backend data. |HTML,CSS,JavaScript, PHP                  |
+| PhoneCompare |Built a product comparison website that visualizes phone specifications to help users decide on the best option. Implemented a responsive layout using Bootstrap, a search bar with real-time data fetching using AJAX, and worked on the backend with PHP          |HTML,CSS,JavaScript, PHP         |
+| SafetyNet | Developing a social media web application to combat cyberbullying for a university project which includes a dashboard for parents to monitor their children's accounts and ensures a safe experience for young users through various methods                |HTML,CSS,JavaScript, PHP              |
+|  |           |                   |
 
 ## Contact Me
 Feel free to contact me at [yeni8200@gmail.com] or connect with me on <a href = 'https://www.linkedin.com/in/yeni-o/'>Linkedln</a> to discuss potential opportunities or to learn more about my work.
