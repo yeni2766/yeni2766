@@ -30,7 +30,7 @@ Self Learning Resources I would recommend
 
 As a developer, I believe that the key to creating great web applications is a willingness to take on challenging projects. My passion for tackling tough projects has led me to seek out the most demanding assignments, where I can put my problem-solving skills to the test. I enjoy collaborating with teams that push me to innovate and approach problems in new and creative ways.
 
-| Syntax | Description | Tech   |
+| Project | Description | Programming Languages Used   |
 | ----------- | ----------- |-----------|
-| Header | Title |         |
-| Paragraph | Text |        |
+| Header | Title |                     |
+| Paragraph | Text |                   |
