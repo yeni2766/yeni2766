@@ -8,13 +8,14 @@
 
 ### About Me
 
-During my time at university, I realised I had a passion in software engineering, I spent months improving on my current skills learnt at University and also I learned new ones to improve my current skillset. After that, I joined Xander Talent to further my self-improvement to not only improve my technical skills, but also my consulting skills which will make me more desirable candidate for a future client.  As of February 2023, I started my journey as a Software Engineering Consultant.
+During my time at university, I realised I had a passion for software engineering, I spent months improving on my current skills learnt at University and also I learned new ones to improve my current skill set. After that, I joined Xander Talent to further my self-improvement in not only improving my technical skills but also my consulting skills which will make me a more desirable candidate for a future client. As of February 2023, I started my journey as a Software Engineering Consultant.
 
 Currently, I have a passion for creating dynamic and responsive websites. My dedication to designing and implementing applications that meet industry standards and user needs has driven my success in the field. As a person, I am highly motivated and thrive in challenging environments that push me to innovate and excel. I have experienced a variety of programming languages, including JavaScript, CSS and HTML. I have also worked with web development frameworks such as Django and React.
 
 ### My Skills
 
-•	JavaScript
+•	JavaScript 
+            <i class="devicon-javascript-plain"></i>
 •	HTML
 •	Python
 •	CSS
