@@ -8,9 +8,9 @@
 
 ### About Me
 
-During my time at university, I realised I had a passion for software engineering, I spent months improving on my current skills learnt at University and also I learned new ones to improve my current skill set. After that, I joined Xander Talent to further my self-improvement in not only improving my technical skills but also my consulting skills which will make me a more desirable candidate for a future client. As of February 2023, I started my journey as a Software Engineering Consultant.
+During my time at university, I realised I had a passion for software engineering, I spent months improving on my current skills learnt at University and also I learned new ones to improve my current skill set. 
 
-Currently, I have a passion for creating dynamic and responsive websites. My dedication to designing and implementing applications that meet industry standards and user needs has driven my success in the field. As a person, I am highly motivated and thrive in challenging environments that push me to innovate and excel. I have experienced a variety of programming languages, including JavaScript, CSS and HTML. I have also worked with web development frameworks such as Django and React.
+Currently, I have a passion for creating dynamic and responsive websites. My dedication to designing and implementing applications that meet industry standards and user needs has driven my success in the field. As a person, I am highly motivated and thrive in challenging environments that push me to innovate and excel. I have experienced a variety of programming languages, including JavaScript, CSS, HTML and PHP. I have also worked with web development frameworks such as React.
 
 ### My Skills
 
@@ -41,6 +41,5 @@ As a developer, I believe that the key to creating great web applications is a w
 ## Contact Me
 Feel free to contact me at [yeni8200@gmail.com] or connect with me on <a href = 'https://www.linkedin.com/in/yeni-o/'>Linkedln</a> to discuss potential opportunities or to learn more about my work.
 
-<img src = 'https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png'/>
 
 
