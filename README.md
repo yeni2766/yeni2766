@@ -3,8 +3,11 @@
 
 🚀 Frontend Developer Freelancer | React Focused | London 🇬🇧
 
-I build modern, responsive, and user-focused web applications.
-Currently transitioning into tech full-time and focused on mastering React, Tailwind CSS, and UI/UX development. Currently working in customer service, bringing strong communication, user empathy, and real-world problem-solving to technical projects. Passionate about delivering clean code and intuitive user experiences while transitioning fully into tech as a full-time job to provide more consistency for my passion!
+I’m a freelance Frontend Developer building modern, responsive, and user-focused web applications for businesses.
+
+Currently working in customer service while transitioning into tech full-time, I bring strong communication skills, user empathy, and real-world problem-solving into every technical project.
+
+I’m focused on mastering React, Tailwind CSS, and UI/UX development, with the goal of becoming a full-time Frontend Engineer and turning my passion for clean code and intuitive user experiences into a consistent career.
 
 
 ### Tech Stack
@@ -32,7 +35,7 @@ Focused on clean UI, menu presentation, and smooth navigation across all devices
 🔗 https://eightyskitchen.com/
 
 
-## 🏢 Access2 (Website Redesign)
+## 🏢 Access2 (Website Redesign) 
 
 Led a full WordPress website overhaul using Elementor.
 Delivered a modern, responsive redesign with improved layout, structure, and user experience.
