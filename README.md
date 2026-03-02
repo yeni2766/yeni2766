@@ -1,42 +1,64 @@
 
 # Hi there, I'm Yeni 👋
 
+🚀 Frontend Developer Freelancer | React Focused | London 🇬🇧
 
-- 2023 Goals: Being the best I can possibly be, getting a job in web development, and getting a car :exclamation:
-- Fun Facts: I enjoy going to the gym! I love playing football and I love playing games :laughing:
+I build modern, responsive, and user-focused web applications.
+Currently transitioning into tech full-time and focused on mastering React, Tailwind CSS, and UI/UX development. Currently working in customer service, bringing strong communication, user empathy, and real-world problem-solving to technical projects. Passionate about delivering clean code and intuitive user experiences while transitioning fully into tech as a full-time job to provide more consistency for my passion!
 
 
-### About Me
+### Tech Stack
 
-During my time at university, I realised I had a passion for software engineering, I spent months improving on my current skills learnt at University and also I learned new ones to improve my current skill set. 
+## 🎨 Frontend
+  <i class="devicon-javascript-plain"></i>
+	•	JavaScript (ES6+)
+	•	React
+	•	HTML5
+	•	CSS3
+	•	SASS
+	•	Tailwind CSS
+            •	UX/UI
+            •	Git (Version Control)
+            •	Wordpress
+            •	Restful API
 
-Currently, I have a passion for creating dynamic and responsive websites. My dedication to designing and implementing applications that meet industry standards and user needs has driven my success in the field. As a person, I am highly motivated and thrive in challenging environments that push me to innovate and excel. I have experienced a variety of programming languages, including JavaScript, CSS, HTML and PHP. I have also worked with web development frameworks such as React.
+### 🌟 Featured Projects
 
-### My Skills
+## 🏪 Eighty’s Kitchen (Restaurant Website)
 
-•	JavaScript 
-            <i class="devicon-javascript-plain"></i>
-•	HTML
-•	Python
-•	CSS
-•	PHP
-•	React
+Designed and developed a visually engaging, responsive website using WordPress & Elementor Pro.
+Focused on clean UI, menu presentation, and smooth navigation across all devices.
 
-Self Learning Resources I would recommend
+🔗 https://eightyskitchen.com/
+
+
+## 🏢 Access2 (Website Redesign)
+
+Led a full WordPress website overhaul using Elementor.
+Delivered a modern, responsive redesign with improved layout, structure, and user experience.
+
+🔗 https://access2.com/
+
+## 🧃 Coshe Juices (E-Commerce Website)
+
+Built a vibrant and modern e-commerce website showcasing product categories and brand identity.
+Optimized for responsiveness and user experience.
+
+🔗 https://coshejuices.co.uk/
+
+## Us With Time
+
+A romantic timeline-based memory journal built with React and Tailwind CSS, allowing users to save moments with photos, videos, and moods in a mobile-first experience. 
+
+🔗 https://us-with-time.vercel.app/
+
+
+## Self Learning Resources I would recommend
 
 - W3Schools - https://www.w3schools.com/
 - SoloLearn - https://www.sololearn.com/?v=2
 
-## Projects
-
-As a developer, I believe that the key to creating great web applications is a willingness to take on challenging projects. My passion for tackling tough projects has led me to seek out the most demanding assignments, where I can put my problem-solving skills to the test. I enjoy collaborating with teams that push me to innovate and approach problems in new and creative ways.
-
-| Project | Description | Programming Languages Used       |
-| ----------- | -----------             |-----------     |
-| Ecommerce Website | As part of my BCS, I built a website that sells products, with categories and backend data. |HTML,CSS,JavaScript, PHP                     |
-| PhoneCompare |Built a product comparison website that visualizes phone specifications to help users decide on the best option. Implemented a responsive layout using Bootstrap, a search bar with real-time data fetching using AJAX, and worked on the backend with PHP          |HTML,CSS,JavaScript, PHP              |
-| SafetyNet | Developing a social media web application to combat cyberbullying for a university project which includes a dashboard for parents to monitor their children's accounts and ensures a safe experience for young users through various methods                |HTML,CSS,JavaScript, PHP              |
-|  |           |                   |
+                     
 
 ## Contact Me
 Feel free to contact me at [yeni8200@gmail.com] or connect with me on <a href = 'https://www.linkedin.com/in/yeni-o/'>Linkedln</a> to discuss potential opportunities or to learn more about my work.
