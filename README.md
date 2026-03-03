@@ -23,7 +23,7 @@ I’m focused on mastering React, Tailwind CSS, and UI/UX development, actively 
             •	UX/UI
             •	Git (Version Control)
             •	Wordpress
-            •	Restful API
+            •	Rest APIs
 
 ### 🌟 Featured Projects
 
