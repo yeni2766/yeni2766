@@ -7,7 +7,7 @@ I’m a freelance Frontend Developer building modern, responsive, and user-focus
 
 Currently working in customer service while transitioning into tech full-time, I bring strong communication skills, user empathy, and real-world problem-solving into every technical project.
 
-I’m focused on mastering React, Tailwind CSS, and UI/UX development, with the goal of becoming a full-time Frontend Engineer and turning my passion for clean code and intuitive user experiences into a consistent career.
+I’m focused on mastering React, Tailwind CSS, and UI/UX development, actively pursuing full-time Frontend Engineer opportunities while continuing to build scalable React applications and turning my passion for clean code and intuitive user experiences into a long-term career.
 
 
 ### Tech Stack
